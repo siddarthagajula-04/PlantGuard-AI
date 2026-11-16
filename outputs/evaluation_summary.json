@@ -1,0 +1,6 @@
+{
+    "test_accuracy": 0.924533486366272,
+    "test_loss": 0.23641858994960785,
+    "number_of_test_images": 3644,
+    "number_of_classes": 10
+}
